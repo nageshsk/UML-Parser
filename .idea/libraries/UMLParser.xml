@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="UMLParser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaparser-core-2.3.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plantuml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
